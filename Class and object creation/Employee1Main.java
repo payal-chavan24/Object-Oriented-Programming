@@ -1,4 +1,4 @@
-public class Employee1Main {
+public class EmployeeMain {
 	public static void main(String args[]) {
 		Employee1 emp1 = new Employee1();
 		String a = emp1.empName = "Ramesh";
@@ -19,3 +19,4 @@ public class Employee1Main {
 
 	}
 }
+
