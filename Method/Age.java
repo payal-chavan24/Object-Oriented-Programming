@@ -4,7 +4,8 @@ package com.number;
 public class Age {
 	int age;
 
-	public void displayAge() {
-		System.out.println("Age =" + age);
+	public int displayAge() {
+		return 21;
 	}
 }
+
