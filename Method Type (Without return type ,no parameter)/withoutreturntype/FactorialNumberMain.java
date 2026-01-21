@@ -1,0 +1,11 @@
+package com.withoutreturntype;
+
+public class FactorialNumberMain {
+
+	public static void main(String[] args) {
+		FactorialNumber fact=new FactorialNumber();
+		fact.printFactorialNumber();
+
+	}
+
+}

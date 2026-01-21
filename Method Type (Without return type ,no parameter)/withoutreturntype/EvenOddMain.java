@@ -1,0 +1,11 @@
+package com.withoutreturntype;
+
+public class EvenOddMain {
+
+	public static void main(String[] args) {
+		EvenOdd check = new EvenOdd();
+		check.checkEvenOdd();
+
+	}
+
+}
